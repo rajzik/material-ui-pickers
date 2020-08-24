@@ -27,7 +27,7 @@
     "@material-ui/icons": "^5.0.0-alpha.4",
     "@material-ui/lab": "^5.0.0-alpha.5",
     "@material-ui/pickers": "^4.0.0-alpha.1",
-    "@mdx-js/mdx": "^0.15.7",
+    "@mdx-js/mdx": "^1.6.16",
     "@now/node": "^1.7.3",
     "@types/fuzzy-search": "^2.1.0",
     "@types/isomorphic-fetch": "^0.0.35",
