@@ -65,7 +65,7 @@
   "dependencies": {
     "@date-io/date-fns": "^2.8.0",
     "@date-io/dayjs": "^2.8.0",
-    "@date-io/luxon": "^2.8.0",
+    "@date-io/luxon": "^2.10.11",
     "@date-io/moment": "^2.8.0",
     "clsx": "^1.0.2",
     "prop-types": "^15.7.2",
